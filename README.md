@@ -5,6 +5,8 @@ A Minecraft 1.13+ datapack for simulating player temperature mechanics.
 This datapack was created with the intent to be used in custom maps to provide
 an extra dimension to custom environments, armor, and items.
 
+[Download Demo World](https://www.mediafire.com/file/1vmguuiekhuw3u9/Ambient_Temperature_System_Demo.zip/file)
+
 ### Features (v1.0) ###
 - Heat radiation with physical blocking
 - Customizable heat sources, heat ranges, heat permeable blocks
